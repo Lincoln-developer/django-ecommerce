@@ -4,3 +4,4 @@ django-filter==22.1
 djangorestframework==3.14.0
 djangorestframework-jsonapi==6.0.0
 inflection==0.5.1
+utils==1.0.1
